@@ -1,0 +1,15 @@
+/********pagination*********/
+
+.pager .active a {
+	background-color: #000;
+	color: #fff;
+}
+
+.pager .active a:hover {
+	color: #000;
+}
+
+.thumbnail img {
+    height:250px !important; 
+    width:100% !important;
+}
